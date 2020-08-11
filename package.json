@@ -1,0 +1,18 @@
+{
+  "name": "jstest2",
+  "version": "1.0.0",
+  "description": "question2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "mocha": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testRepo2"
+  },
+  "author": "Taniya",
+  "license": "ISC"
+}
